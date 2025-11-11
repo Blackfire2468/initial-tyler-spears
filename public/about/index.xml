@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Website Warmup</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on Website Warmup</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Tyler Spears</copyright>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/aboutme/</guid>
+      <description>&lt;p&gt;I’m Tyler Spears, and I’m 20 years old. I go to Georgetown College in Scott County, where I’m majoring in Art and minoring in Computer Science. I’m really like graphic design and want to work in the design field or open my own print shop after college. I like to be creative and bring ideas to life.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

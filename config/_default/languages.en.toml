@@ -1,0 +1,18 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Website Warmup"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = ""
+  logo = "img/blowfish_logo_transparent.png"
+  description = ""
+
+[params.author]
+  name = "Tyler Spears"
+  image = "img/blowfish_logo.png"
+  headline = ""
+  bio = "A College student at Georgetown College"

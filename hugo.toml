@@ -1,0 +1,4 @@
+baseURL = "https://yourusername.github.io/my-hugo-site/"
+languageCode = "en-us"
+title = "My Hugo Site"
+theme = "blowfish"
