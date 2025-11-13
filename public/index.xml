@@ -15,16 +15,29 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/about/aboutme/</guid>
-      <description>&lt;p&gt;I’m Tyler Spears, and I’m 20 years old. I go to Georgetown College in Scott County, where I’m majoring in Art and minoring in Computer Science. I’m really like graphic design and want to work in the design field or open my own print shop after college. I like to be creative and bring ideas to life.&lt;/p&gt;</description>
+      <description>&lt;html&gt;
+  &lt;style&gt;
+ button {
+      background-color: #0078d7;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      margin-top: 10px;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+&lt;p&gt;&lt;/style&gt;
+&lt;/html&gt;&lt;/p&gt;
+&lt;p&gt;I’m Tyler Spears, and I’m 20 years old. I go to Georgetown College in Scott County, where I’m majoring in Art and minoring in Computer Science. I’m really like graphic design and want to work in the design field or open my own print shop after college. I like to be creative and bring ideas to life.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Problem 1</title>
-      <link>http://localhost:1313/articles/homework1/</link>
+      <link>http://localhost:1313/articles/problem1/homework1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/articles/homework1/</guid>
+      <guid>http://localhost:1313/articles/problem1/homework1/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The first problem we are going to look at is one from the chaper two homework.&lt;/strong&gt;&lt;/p&gt;
 &lt;h2&gt;ChessBoard&lt;/h2&gt;
 &lt;blockquote&gt; Write a program that creates a string that represents an 8×8 grid, using newline characters to separate lines. At each position of the grid there is either a space or a &#34;#&#34; character. The characters should form a chessboard. 
@@ -43,10 +56,10 @@
     
     <item>
       <title>Problem 2</title>
-      <link>http://localhost:1313/articles/homework2/</link>
+      <link>http://localhost:1313/articles/problem2/homework2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/articles/homework2/</guid>
+      <guid>http://localhost:1313/articles/problem2/homework2/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The second problem we are going to look at is from the chapter 3 homework&lt;/strong&gt;&lt;/p&gt;
 &lt;h2&gt;Bean counting&lt;/h2&gt;
 &lt;blockquote&gt;You can get the Nth character, or letter, from a string by writing [N] after the string (for example, string[2]). The resulting value will be a string containing only one character (for example, &#34;b&#34;). The first character has position 0, which causes the last one to be found at position string.length - 1. In other words, a two-character string has length 2, and its characters have positions 0 and 1.
