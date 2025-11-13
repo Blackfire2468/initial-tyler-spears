@@ -1,7 +1,9 @@
 ---
 title: "Welcome to Articles"
-
+description: "Homework assignments and explanations"
 ---
+
+<h2>homework assignments and explanations</h2>
 <html>
   <style>
  button {
